@@ -70,11 +70,11 @@ function Cartmini() {
                             </div>
                             <div className='cart__envio'>
                                 <h3>Envío:</h3>
-                                <h3>4990</h3>
+                                <h3>35500</h3>
                             </div>
                             <div className='cart__total'>   
                                 <h2>Total (más envío):</h2>
-                                <h2>{getItemPrice() + 4990}</h2>
+                                <h2>{getItemPrice() + 35500}</h2>
                             </div>
                         </div>
                         <div className='cart__btns'>

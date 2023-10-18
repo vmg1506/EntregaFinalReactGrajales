@@ -20,7 +20,7 @@ function Item(props){
                             </div>
                             <div className="card__price-stock-container">
                                 <div className="card__agotado-container">
-                                    <h4 className="card__agotado">{stock === 0 ? 'Agotado' :'' }</h4>
+                                    <h4 className="card__agotado">Stock: {stock === 0 ? 'Agotado' :stock }</h4>
                                 </div>
                                 <div className="card__hoja-container">
                                     <img src={control} alt="hoja" className="card__hoja"/>

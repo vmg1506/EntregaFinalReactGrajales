@@ -1,8 +1,8 @@
 .mini-container{
     width: 40vw !important; 
     z-index: 3 !important;
-    background-color:rgb(229, 230, 229);
-    box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.078);
+    background-color:rgba(0, 14, 77, 0.9);
+    box-shadow: 26px 15px 24px 5px rgba(0,0,0,0.85);
 }
 .mini__inner {
     width: 100% !important; 
@@ -13,8 +13,10 @@
 }
 .mini__itemlist-container {
     width: 60vw !important;
-    max-width: 90% !important;
+    max-width: 90% !important;   
 }
+
+
 .cart-mini__checkout-container {
     width: 100%;
     max-width: 90%;

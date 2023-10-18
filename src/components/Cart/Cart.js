@@ -72,7 +72,7 @@ function Cart() {
                             </div>
                             <div className='cart__envio'>
                                 <h3>Envío:</h3>
-                                <h3>35000</h3>
+                                <h3>35000</h3> 
                             </div>
                             <div className='cart__total'>   
                                 <h2>Total (más envío):</h2>
